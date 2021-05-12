@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    text-align:center;
+    font-family: 'Lobster', cursive;
+   
+    
+}
+h1 {
+    font-size: 3.5rem;
+    margin: 100px auto 50px auto;
+    color: #66BFBF;
+    line-height: 1.5    ;
+} 
+
+h2 {
+    font-family: 'Itim', cursive;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-size: 20px;
+}
+
+a {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: aquamarine;
+    padding: 100px;
+}
+
+.pro {text-decoration: underline;}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: absolute;
+}
+
+.my-image {
+    width: 150px;
+    height: 150px;
+}
+
+.earth-img {
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 30px;
+}
+
+.code-img {
+    width: 200px;
+    height: 200px;
+    float: left;    
+    margin-left: 30px;
+}
+.skill-row {
+    width: 50%;
+    margin: auto ;
+    text-align: left;
+    line-height: 1.5;
+}
+
+p {
+    font-family: 'Girassol', cursive;
+    font-size: 25px;
+}
+
+.my-skills {
+    margin-bottom: 40px;
+}
